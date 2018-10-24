@@ -1,4 +1,4 @@
-package tech.fruntke.lectures.six;
+package tech.fruntke.lectures.six_a;
 
 public class Socke {
     private String farbe;

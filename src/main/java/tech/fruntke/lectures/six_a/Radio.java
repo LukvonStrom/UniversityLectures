@@ -1,4 +1,4 @@
-package tech.fruntke.lectures.six;
+package tech.fruntke.lectures.six_a;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ public class Radio {
     // oder wie hier relativ als Prozentzahl zur Maximallautstärke
     private double lautstaerke;
     private double frequenz;
-    private List<Double> frequencyStorage = new ArrayList<Double>();
+    private List<Double> frequencyStorage = new ArrayList<>();
 
     public Radio() {
     }
