@@ -5,7 +5,4 @@ public abstract class Obst {
 
     public abstract String getFarbe();
 
-    void print() {
-        System.out.println("Name: " + getName() + " Farbe: " + getFarbe());
-    }
 }
