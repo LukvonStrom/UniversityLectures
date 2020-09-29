@@ -1,2 +1,2 @@
 # UniversityLectures
-This repository contains all code I write for the lectures of "Einführung in die Programmierung" @ DHBW Stuttgart
+This repository contains all the code I wrote for the "Einführung in die Programmierung"(Programming 101) lectures @ DHBW Stuttgart
